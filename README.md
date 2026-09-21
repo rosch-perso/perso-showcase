@@ -32,4 +32,4 @@ Working prototype, being prepared for a first internal test with real users. Roa
 
 ## Contact
 
-Robin Scheiwiller, Gossau ZH, Switzerland
+Robin Scheiwiller, Zurich, Switzerland
